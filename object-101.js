@@ -6,3 +6,5 @@ console.log('${myBook.title} by ${myBook.author}')
 myBook.title = 'Animal farm'
 
 console.log('${myBook.title} by ${myBook.author'})
+
+console.log('hhhshhhhshhshhsh')
